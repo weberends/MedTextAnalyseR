@@ -1,0 +1,32 @@
+---
+title: "README MedTextAnalyseR"
+output: github_document
+---
+
+---
+output: github_document
+---
+
+# MedTextAnalyseR
+
+**MedTextAnalyseR** is a package for preprocessing and analysing Dutch medical physicians' texts.
+It allows easy cleaning of texts, removal of stopwords, and visualisation of the most frequent words using tidyverse and ggplot2 principles.
+
+---
+
+## Features
+
+- **Preprocess SOEP texts**: clean up texts, remove digits, punctuation, and stopwords.
+- **Flexible visualisation**: create word frequency plots, grouped by variables such as gender.
+- **Expand stopwords**: easily add new stopwords dynamically.
+- **Tidy workflow**: outputs are ready for use with the tidyverse suite.
+
+---
+
+## Installation
+
+Currently available for local installation.
+
+```r
+# Install from local files
+devtools::install()

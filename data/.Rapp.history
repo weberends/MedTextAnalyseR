@@ -1,0 +1,2 @@
+load("/Users/weberends/Library/CloudStorage/OneDrive-UMCG/Documents/Studies/Hoofdstukken/MedTextAnalyseR/MedTextAnalyseR/data/dutch_stopwords.rda")
+load("/Users/weberends/Library/CloudStorage/OneDrive-UMCG/Documents/Studies/Hoofdstukken/MedTextAnalyseR/MedTextAnalyseR/data/example_soep_texts.rda")

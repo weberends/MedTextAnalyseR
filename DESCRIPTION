@@ -1,0 +1,21 @@
+Package: MedTextAnalyseR
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Wikje E. Berends-Hoekstra
+Maintainer: W.E. Berends-Hoekstra <w.e.berends-hoekstra@umcg.nl>
+Description: Package for analysing and visualising text data from medical records.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    forcats,
+    ggplot2,
+    readr,
+    reticulate (>= 1.39.0),
+    stringr,
+    tidytext,
+    viridis
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5)
