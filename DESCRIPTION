@@ -19,3 +19,5 @@ Imports:
 RoxygenNote: 7.3.2
 Depends: 
     R (>= 3.5)
+URL: https://github.com/weberends/MedTextAnalyseR
+BugReports: https://github.com/weberends/MedTextAnalyseR/issues
