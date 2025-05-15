@@ -4,7 +4,7 @@ Untitled
 # MedTextAnalyseR
 
 **MedTextAnalyseR** is a package for preprocessing and analysing Dutch
-medical SOEP texts. It allows easy cleaning of texts, removal of
+medical texts. It allows easy cleaning of texts, removal of
 stopwords, and visualisation of the most frequent words using tidyverse
 and ggplot2 principles.
 
